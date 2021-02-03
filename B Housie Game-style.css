@@ -47,7 +47,7 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 60px;
-    position: absolute;
+    position: fixed;
     top: -260px;
     left: 260px;
 }
@@ -59,7 +59,7 @@ body {
     height: 50px;
     width: 75px;
     font-size: 25px;
-    position: absolute;
+    position: fixed;
     top: -385px;
     left: 137px;
 }
@@ -70,7 +70,7 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 60px;
-    position: absolute;
+    position: fixed;
     top: -510px;
     left: 395px;
 }
@@ -83,7 +83,7 @@ body {
     height: 50px;
     width: 75px;
     font-size: 25px;
-    position: absolute;
+    position: fixed;
     top: -635px;
     left: 270px;
 }
@@ -94,7 +94,7 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 60px;
-    position: absolute;
+    position: fixed;
     top: -760px;
     left: 525px;
 }
@@ -106,7 +106,7 @@ body {
     height: 50px;
     width: 75px;
     font-size: 25px;
-    position: absolute;
+    position: fixed;
     top: -885px;
     left: 400px;
 }
@@ -117,7 +117,7 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 60px;
-    position: absolute;
+    position: fixed;
     top: -1010px;
     left: 658px;
 }
