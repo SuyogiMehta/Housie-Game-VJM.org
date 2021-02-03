@@ -236,8 +236,8 @@ body {
     height: 50px;
     width: 75px;
     font-size: 25px;
-    position: relative;
-    top: -1955px;
+    position: fixed;
+    top: 100px;
     left: -40px;
 }
 
@@ -247,8 +247,8 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 60px;
-    position: relative;
-    top: -2081px;
+    position: fixed;
+    top: 100px;
     left: 260px;
 }
 
@@ -259,8 +259,8 @@ body {
     height: 50px;
     width: 75px;
     font-size: 25px;
-    position: relative;
-    top: -2206px;
+    position: fixed;
+    top: 100px;
     left: 137px;
 }
 
@@ -270,8 +270,8 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 59px;
-    position: relative;
-    top: -2331px;
+    position: fixed;
+    top: 100px;
     left: 395px;
 }
 
@@ -283,8 +283,8 @@ body {
     height: 49px;
     width: 71px;
     font-size: 25px;
-    position: relative;
-    top: -2455px;
+    position: fixed;
+    top: 100px;
     left: 269px;
 }
 
@@ -294,8 +294,8 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 58px;
-    position: relative;
-    top: -2580px;
+    position: fixed;
+    top: 100px;
     left: 525px;
 }
 
@@ -306,8 +306,8 @@ body {
     height: 50px;
     width: 75px;
     font-size: 25px;
-    position: relative;
-    top: -2705px;
+    position: fixed;
+    top: 100px;
     left: 400px;
 }
 
@@ -317,8 +317,8 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 60px;
-    position: relative;
-    top: -2830px;
+    position: fixed;
+    top: 100px;
     left: 658px;
 }
 
@@ -330,8 +330,8 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 65px;
-    position: relative;
-    top: -2910px;
+    position: fixed;
+    top: 100px;
     left: 191px;
 }
 
@@ -342,8 +342,8 @@ body {
     height: 50px;
     width: 70px;
     font-size: 25px;
-    position: relative;
-    top: -3035px;
+    position: fixed;
+    top: 100px;
     left: 70px;
 }
 
@@ -353,8 +353,8 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 65px;
-    position: relative;
-    top: -3160px;
+    position: fixed;
+    top: 100px;
     left: 325px;
 }
 
@@ -365,8 +365,8 @@ body {
     height: 50px;
     width: 69px;
     font-size: 25px;
-    position: relative;
-    top: -3285px;
+    position: fixed;
+    top: 100px;
     left: 204px;
 }
 
@@ -376,8 +376,8 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 61px;
-    position: relative;
-    top: -3410px;
+    position: fixed;
+    top: 100px;
     left: 459px;
 }
 
@@ -388,8 +388,8 @@ body {
     height: 50px;
     width: 67.5px;
     font-size: 25px;
-    position: relative;
-    top: -3535px;
+    position: fixed;
+    top: 100px;
     left: 334px;
 }
 
@@ -399,8 +399,8 @@ body {
     border: 5px solid mediumblue;
     height: 40px;
     width: 65px;
-    position: relative;
-    top: -3660px;
+    position: fixed;
+    top: 100px;
     left: 588px;
 }
 
@@ -411,8 +411,8 @@ body {
     height: 50px;
     width: 70px;
     font-size: 25px;
-    position: relative;
-    top: -3785px;
+    position: fixed;
+    top: 100px;
     left: 468px;
 }
 
