@@ -84,7 +84,7 @@ body {
     width: 75px;
     font-size: 25px;
     position: fixed;
-    top: 200px;
+    top: 125px;
     left: 400px;
 }
 
@@ -95,7 +95,7 @@ body {
     height: 40px;
     width: 60px;
     position: fixed;
-    top: 125px;
+    top: 200px;
     left: 470px;
 }
 
@@ -107,7 +107,7 @@ body {
     width: 75px;
     font-size: 25px;
     position: fixed;
-    top: 200px;
+    top: 125px;
     left: 530px;
 }
 
@@ -118,7 +118,7 @@ body {
     height: 40px;
     width: 60px;
     position: fixed;
-    top: 125px;
+    top: 200px;
     left: 600px;
 }
 
