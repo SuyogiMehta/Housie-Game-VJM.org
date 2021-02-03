@@ -37,8 +37,8 @@ body {
     width: 75px;
     font-size: 25px;
     position: fixed;
-    top: 150px;
-    left: 200px;
+    top: 250px;
+    left: 400px;
 }
 
 #c {
@@ -60,8 +60,8 @@ body {
     width: 75px;
     font-size: 25px;
     position: fixed;
-    top: 150px;
-    left: 275px;
+    top: 250px;
+    left: 390px;
 }
 
 #e {
@@ -84,8 +84,8 @@ body {
     width: 75px;
     font-size: 25px;
     position: fixed;
-    top: 150px;
-    left: 350px;
+    top: 250px;
+    left: 530px;
 }
 
 #g {
@@ -107,8 +107,8 @@ body {
     width: 75px;
     font-size: 25px;
     position: fixed;
-    top: 150px;
-    left: 425px;
+    top: 250px;
+    left: 670px;
 }
 
 #i {
