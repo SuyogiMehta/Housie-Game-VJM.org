@@ -37,7 +37,7 @@ body {
     width: 75px;
     font-size: 25px;
     position: fixed;
-    top: 0px;
+    top: 100px;
     left: 4px;
 }
 
@@ -48,7 +48,7 @@ body {
     height: 40px;
     width: 60px;
     position: fixed;
-    top: -260px;
+    top: 100px;
     left: 260px;
 }
 
@@ -60,7 +60,7 @@ body {
     width: 75px;
     font-size: 25px;
     position: fixed;
-    top: -385px;
+    top: 100px;
     left: 137px;
 }
 
@@ -71,7 +71,7 @@ body {
     height: 40px;
     width: 60px;
     position: fixed;
-    top: -510px;
+    top: 100px;
     left: 395px;
 }
 
