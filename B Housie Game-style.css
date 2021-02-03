@@ -237,7 +237,7 @@ body {
     width: 75px;
     font-size: 25px;
     position: fixed;
-    top: 100px;
+    top: -100px;
     left: -40px;
 }
 
